@@ -27,7 +27,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           extras_css: |
-            svg:root { background: #08051b; border-radius: 14px; color: #c4b5d9; }
+            svg:root { background: transparent; border-radius: 14px; color: #c4b5d9; }
             h1, h2, h3 { color: #c084fc; }
             .field svg { fill: #a78bfa; }
             footer { color: #9c8aaf; }

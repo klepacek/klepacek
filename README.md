@@ -58,7 +58,9 @@ I've contributed improvements to API error handling, automated endpoint tests, a
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->📕 [Your API Works. But Is It Actually Reliable?](https://dev.to/klepacek/your-api-works-but-is-it-actually-reliable-kgj)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- 📕 [Your API Works. But Is It Actually Reliable?](https://dev.to/klepacek/your-api-works-but-is-it-actually-reliable-kgj)
+<!-- BLOG-POST-LIST:END -->
 
 ### ⏱️ Weekly Coding Activity
 

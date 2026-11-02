@@ -21,3 +21,4 @@ jobs:
           feed_list: "https://dev.to/feed/klepacek"
           max_post_count: 5
           template: "- 📕 [$title]($url)$newline"
+          tag_post_pre_newline: true

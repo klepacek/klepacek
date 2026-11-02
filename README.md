@@ -1,91 +1,53 @@
-<a href="https://klepacek.xyz"><img src="./assets/banner.svg" width="100%" alt="Vojtěch Klepáček — IT student, developer and open-source contributor" /></a>
+[![Vojtěch Klepáček](assets/banner-matrix.png)](https://klepacek.xyz)
 
-<h1 align="center">Hey, I'm Vojtěch 👋</h1>
-<p align="center"><b>IT Student · Developer · Open-Source Contributor</b><br />Building useful software. Exploring APIs. Learning how systems work.</p>
+<h1 align="center">Hi, I'm Vojtěch Klepáček! 👋 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=klepacek.klepacek&left_color=royalblue&right_color=black" alt="Visitors" />
+
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
-  <a href="https://klepacek.xyz"><img src="https://img.shields.io/badge/Portfolio-klepacek.xyz-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/vojt%C4%9Bch-klep%C3%A1%C4%8Dek-495a78430/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://dev.to/klepacek"><img src="https://img.shields.io/badge/DEV.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
-  <a href="mailto:vojtechklep@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cs,swift,html,css,bash,nodejs,react,vite,npm,git,github,mysql,sqlite,supabase" alt="Skills and tools"/>
+  </a>
 </p>
 
-<p align="center"><i>“Make it work. Make it clear. Make it better.”</i></p>
+![GitHub Snake](https://raw.githubusercontent.com/klepacek/klepacek/refs/heads/output/github-snake-dark.svg)
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,cs,swift,html,css,bash&perline=8" alt="JavaScript, TypeScript, Python, C#, Swift, HTML, CSS and Bash" /></a><br />
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,react,vite,npm,git,github,mysql,sqlite,supabase&perline=9" alt="Node.js, React, Vite, npm, Git, GitHub, MySQL, SQLite and Supabase" /></a>
-</p>
-<p align="center"><sub>Also working with Adobe tools.</sub></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+    <div style="flex: 1; max-width: 45%;">
+        <img align="left" width="50%" alt="Vojtěch's GitHub metrics" src="https://raw.githubusercontent.com/klepacek/klepacek/main/github-metrics.svg">
+    </div>
 
-<h3 align="center">🐍 My Contributions</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klepacek/klepacek/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/klepacek/klepacek/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/klepacek/klepacek/output/github-snake.svg" alt="Snake animation of my GitHub contributions" width="100%" />
-  </picture>
-</p>
+  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
+        <h3>🌐 Let's Connect and Grow Together!</h3>
+        <p>
+            <a href="https://www.linkedin.com/in/vojt%C4%9Bch-klep%C3%A1%C4%8Dek-495a78430/">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
+            </a>
+            <a href="https://github.com/klepacek">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub">
+            </a>
+        </p>
 
-## 🧑‍💻 About Me
+  <h3>✨ Fun Facts</h3>
+        <ul>
+            <li>I was born on April Fools' Day!</li>
+            <li>I enjoy building useful software and exploring how systems work behind the scenes.</li>
+            <li>I write about APIs and software development on DEV.to.</li>
+            <li>I speak Czech, English, and German.</li>
+        </ul>
 
-I'm an Information Technology student at **SOŠ strojní a elektrotechnická Velešín** in the Czech Republic. I enjoy building useful software, working with APIs, and learning how systems work behind the scenes.
-
-- 🔭 Contributing to **[OpenBakalari](https://github.com/klepacek/OpenBakalari)** and exploring open-source development
-- ⚙️ Interested in **backend development, REST APIs, automation, and IT infrastructure**
-- 🌱 Currently studying **Cisco IT Essentials, ECDL, and Google AI Fundamentals**
-- 💬 Happy to talk about **JavaScript, Node.js, Python, and open source**
-- ⚡ Fun fact: I was born on April Fools' Day!
-
-## 🚀 Featured Project
-
-### [OpenBakalari](https://github.com/klepacek/OpenBakalari)
-
-An open-source project focused on the Bakaláři school information system. I've contributed improvements to **API error handling, automated endpoint tests, and continuous integration**.
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 📕 [Your API Works. But Is It Actually Reliable?](https://dev.to/klepacek/your-api-works-but-is-it-actually-reliable-kgj)
-
-<!-- BLOG-POST-LIST:END -->
-
-### ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-### 📈 GitHub Activity
-
-![GitHub stats](https://github-readme-stats.shion.dev/api?username=klepacek&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
-
-![GitHub streak](https://streak-stats.demolab.com/?user=klepacek&theme=transparent&hide_border=true)
-
-### 🎓 Education & Learning
-
-**SOŠ strojní a elektrotechnická Velešín** — Information Technology (2026–present)
-
-- Cisco IT Essentials — in progress
-- ECDL — in progress
-- Google AI Fundamentals — in progress
-
-**Languages**
-
-| Language | Level | Evidence |
-| :--- | :--- | :--- |
-| 🇨🇿 Czech | Native | — |
-| 🇬🇧 English | C2 | [EF SET Certificate](https://cert.efset.org/en/UJ1CC4) |
-| 🇩🇪 German | A2–B1 | [ESL Certificate](https://imgur.com/a/0NVCn33) |
-
-
----
-
-<p align="center"><b>Thanks for visiting!</b><br />Explore more of my work at <a href="https://klepacek.xyz">klepacek.xyz</a>.</p>
+  <h3>🧑‍💻 About Me</h3>
+        <p>
+            I'm an Information Technology student at <b>SOŠ strojní a elektrotechnická Velešín</b> in the Czech Republic.
+            I enjoy building useful software, working with APIs, and learning how systems work behind the scenes.
+            My interests include backend development, REST APIs, automation, and IT infrastructure.
+        </p>
+        <p>
+            I contribute to <a href="https://github.com/klepacek/OpenBakalari">OpenBakalari</a>, where I've worked on API error handling,
+            automated endpoint tests, and continuous integration. I'm currently studying Cisco IT Essentials, ECDL,
+            and Google AI Fundamentals, and I'm always happy to talk about JavaScript, Node.js, Python, and open source.
+            You can find more of my work at <a href="https://klepacek.xyz">klepacek.xyz</a>.
+        </p>
+    </div>
+</div>

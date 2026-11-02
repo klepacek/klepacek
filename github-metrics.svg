@@ -224,4 +224,14 @@
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
-</svg>
+<style>svg:root { background: #08051b; border-radius: 14px; color: #c4b5d9; }
+h1, h2, h3 { color: #c084fc; }
+.field svg { fill: #a78bfa; }
+footer { color: #9c8aaf; }
+:root {
+  --color-calendar-graph-day-bg: #17102e;
+  --color-calendar-graph-day-L1-bg: #3b1764;
+  --color-calendar-graph-day-L2-bg: #6d28a8;
+  --color-calendar-graph-day-L3-bg: #a855f7;
+  --color-calendar-graph-day-L4-bg: #e879f9;
+}</style></svg>

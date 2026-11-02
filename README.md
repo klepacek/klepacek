@@ -1,7 +1,7 @@
-[![Vojtěch Klepáček](assets/banner-animated.gif)](https://klepacek.xyz)
+[![Vojtěch Klepáček](assets/banner-purple.gif)](https://klepacek.xyz)
 
 <h1 align="center">Hi, I'm Vojtěch Klepáček! 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=klepacek.klepacek&left_color=royalblue&right_color=black" alt="Visitors" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=klepacek.klepacek&left_color=%237c3aed&right_color=%2308051b" alt="Visitors" />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 

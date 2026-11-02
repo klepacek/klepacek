@@ -1,4 +1,4 @@
-[![Vojtěch Klepáček](assets/banner-matrix.png)](https://klepacek.xyz)
+[![Vojtěch Klepáček](assets/banner-animated.gif)](https://klepacek.xyz)
 
 <h1 align="center">Hi, I'm Vojtěch Klepáček! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=klepacek.klepacek&left_color=royalblue&right_color=black" alt="Visitors" />

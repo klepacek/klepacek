@@ -1,0 +1,40 @@
+name: Update website blog posts
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/website-blog.yml
+      - scripts/update-blog.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: website-blog
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Update posts from klepacek.xyz
+        run: python scripts/update-blog.py
+      - name: Commit updated posts
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update latest website blog posts"
+          git push

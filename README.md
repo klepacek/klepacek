@@ -40,7 +40,7 @@
         <ul>
             <li>I was born on April Fools' Day!</li>
             <li>I enjoy building useful software and exploring how systems work behind the scenes.</li>
-            <li>I write about APIs and software development on DEV.to.</li>
+            <li>I write about APIs and software development on <a href="https://klepacek.xyz/blog">my website</a>.</li>
             <li>I speak Czech, English, and German.</li>
         </ul>
 
@@ -58,3 +58,16 @@
         </p>
     </div>
 </div>
+
+<h3>📝 Latest Blog Posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<ul>
+  <li><a href="https://klepacek.xyz/blog/my-first-real-open-source-contributions">My First Real Open Source Contributions (And What I Learned)</a></li>
+  <li><a href="https://klepacek.xyz/blog/why-waking-up-three-times-makes-me-feel-more-rested">Why Waking Up Three Times Makes Me Feel More Rested</a></li>
+  <li><a href="https://klepacek.xyz/blog/your-api-works-but-is-it-actually-reliable">Your API Works. But Is It Actually Reliable?</a></li>
+</ul>
+<!-- BLOG-POST-LIST:END -->
+
+<p><a href="https://klepacek.xyz/blog">Read all posts →</a></p>
+

@@ -31,7 +31,7 @@
 
   <h3>🛠️ Projects</h3>
         <p>
-            <a href="https://github.com/klepacek/pixelroom"><b>Pixelroom</b></a> — a browser-based image toolkit for converting,
+            <a href="https://github.com/klepacek/pixelroom"><b>Pixelroom</b></a> - a browser-based image toolkit for converting,
             compressing, cropping, resizing, and watermarking images. Processing stays on your device, with batch exports
             and embedded metadata removal.
         </p>
@@ -40,7 +40,7 @@
         <ul>
             <li>I was born on April Fools' Day!</li>
             <li>I enjoy building useful software and exploring how systems work behind the scenes.</li>
-            <li>I write about APIs and software development on <a href="https://klepacek.xyz/blog">my website</a>.</li>
+            <li>I write about software development and personal life on <a href="https://klepacek.xyz/blog">my website</a>.</li>
             <li>I speak Czech, English, and German.</li>
         </ul>
 

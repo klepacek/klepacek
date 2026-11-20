@@ -44,7 +44,7 @@
         <p>
             I'm an Information Technology student at <b>SOŠ strojní a elektrotechnická Velešín</b> in the Czech Republic.
             I enjoy building useful software, working with APIs, and learning how systems work behind the scenes.
-            My interests include backend development, REST APIs, automation, and IT infrastructure.
+            My interests include fullstack developement, working with graphic tools, exploring many possibilities
         </p>
         <p>
             I contribute to <a href="https://github.com/klepacek/OpenBakalari">OpenBakalari</a>, where I've worked on API error handling,

@@ -31,9 +31,8 @@
 
   <h3>🛠️ Projects</h3>
         <p>
-            <a href="https://github.com/klepacek/pixelroom"><b>Pixelroom</b></a> - a browser-based image toolkit for converting,
-            compressing, cropping, resizing, and watermarking images. Processing stays on your device, with batch exports
-            and embedded metadata removal.
+            <a href="https://fitnesskremze.cz"><b>Fitness Křemže</b></a>; A website for my local fitness center with a full-on administration panel to
+          ease access for the administrators. 
         </p>
 
   <h3>✨ Fun Facts</h3>

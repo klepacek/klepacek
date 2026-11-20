@@ -1,5 +1,3 @@
-[![Vojtěch Klepáček](assets/banner-purple.gif)](https://klepacek.xyz)
-
 <h1 align="center">Hi, I'm Vojtěch Klepáček! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=klepacek.klepacek&left_color=%237c3aed&right_color=%2308051b" alt="Visitors" />
 
@@ -39,7 +37,6 @@
         <ul>
             <li>I was born on April Fools' Day!</li>
             <li>I enjoy building useful software and exploring how systems work behind the scenes.</li>
-            <li>I write about software development and personal life on <a href="https://klepacek.xyz/blog">my website</a>.</li>
             <li>I speak Czech, English, and German.</li>
         </ul>
 
@@ -53,20 +50,7 @@
             I contribute to <a href="https://github.com/klepacek/OpenBakalari">OpenBakalari</a>, where I've worked on API error handling,
             automated endpoint tests, and continuous integration. I'm currently studying Cisco IT Essentials, ECDL,
             and Google AI Fundamentals, and I'm always happy to talk about JavaScript, Node.js, Python, and open source.
-            You can find more of my work at <a href="https://klepacek.xyz">klepacek.xyz</a>.
         </p>
     </div>
 </div>
-
-<h3>📝 Latest Blog Posts</h3>
-
-<!-- BLOG-POST-LIST:START -->
-<ul>
-  <li><a href="https://klepacek.xyz/blog/my-first-real-open-source-contributions">My First Real Open Source Contributions (And What I Learned)</a></li>
-  <li><a href="https://klepacek.xyz/blog/why-waking-up-three-times-makes-me-feel-more-rested">Why Waking Up Three Times Makes Me Feel More Rested</a></li>
-  <li><a href="https://klepacek.xyz/blog/your-api-works-but-is-it-actually-reliable">Your API Works. But Is It Actually Reliable?</a></li>
-</ul>
-<!-- BLOG-POST-LIST:END -->
-
-<p><a href="https://klepacek.xyz/blog">Read all posts →</a></p>
 
